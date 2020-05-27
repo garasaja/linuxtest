@@ -8,7 +8,7 @@ public class RandomApp {
 		Random r = new Random();
 		int a = r.nextInt(50)+1;
 		System.out.println("랜덤 숫자는 : " + a);
-
+		System.out.println("수정 1.1");
 	}
 
 }
